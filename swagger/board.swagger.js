@@ -1,6 +1,6 @@
 /**
  * @swagger
- * /boards:
+ * /board:
  *   get:
  *     summary: 게시글 가져오기
  *     tags: [Board]
@@ -33,7 +33,7 @@
 
 /**
  * @swagger
- * /boards:
+ * /board:
  *   post:
  *     summary: 게시글 등록하기
  *     tags: [Board]
